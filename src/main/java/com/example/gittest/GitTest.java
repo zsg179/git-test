@@ -16,4 +16,8 @@ public class GitTest {
     private static int fun() {
         return 2;
     }
+
+    private static int fun3() {
+        return 3;
+    }
 }

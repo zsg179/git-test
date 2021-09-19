@@ -9,6 +9,6 @@ package com.example.gittest;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("test");
-        System.out.println("hello");
+        System.out.println("world");
     }
 }

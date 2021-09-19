@@ -10,5 +10,10 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("test");
         System.out.println("world");
+        System.out.println(fun());
+    }
+
+    private static int fun() {
+        return 2;
     }
 }

@@ -11,6 +11,9 @@ public class GitTest {
         System.out.println("test");
         System.out.println("world");
         System.out.println(fun());
+        System.out.println("11");
+        System.out.println("22");
+        System.out.println("33");
     }
 
     private static int fun() {
@@ -19,5 +22,11 @@ public class GitTest {
 
     private static int fun3() {
         return 3;
+    }
+    private static int fun4() {
+        return 4;
+    }
+    private static int fun5() {
+        return 5;
     }
 }

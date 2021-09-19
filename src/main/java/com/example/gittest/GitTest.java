@@ -11,14 +11,9 @@ public class GitTest {
         System.out.println("test");
         System.out.println("world");
         System.out.println(fun());
-        System.out.println(fun2());
     }
 
     private static int fun() {
         return 2;
-    }
-
-    private static boolean fun2() {
-        return true;
     }
 }

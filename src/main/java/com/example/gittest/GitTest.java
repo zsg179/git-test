@@ -11,6 +11,7 @@ public class GitTest {
         System.out.println("test");
         System.out.println("world");
         System.out.println(fun());
+        System.out.println("revert...");
         System.out.println("11");
         System.out.println("22");
         System.out.println("33");

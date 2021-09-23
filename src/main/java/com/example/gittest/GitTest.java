@@ -9,7 +9,7 @@ package com.example.gittest;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("修改代码");
-        System.out.println("world");
+        System.out.println("修改代码2");
         System.out.println(fun());
         System.out.println("revert...");
         System.out.println("11");

@@ -10,7 +10,7 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("修改代码");
         System.out.println("修改代码2");
-        System.out.println("修改代码3");
+        System.out.println("修改代码4");
         System.out.println("revert...");
         System.out.println("11");
         System.out.println("22");

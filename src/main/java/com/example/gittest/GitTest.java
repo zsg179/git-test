@@ -15,6 +15,8 @@ public class GitTest {
         System.out.println("11");
         System.out.println("22");
         System.out.println("33");
+        System.out.println("增加代码");
+        System.out.println("增加代码2");
     }
 
     private static int fun() {

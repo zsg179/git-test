@@ -8,7 +8,7 @@ package com.example.gittest;
  */
 public class GitTest {
     public static void main(String[] args) {
-        System.out.println("test");
+        System.out.println("修改代码");
         System.out.println("world");
         System.out.println(fun());
         System.out.println("revert...");
